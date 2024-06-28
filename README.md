@@ -1,3 +1,6 @@
+https://github.com/jphp-group/dn-dffi-ext   
+https://github.com/HackMemory/dn-dffi-ext
+
 # dn-dffi-ext
 
 ## static DFFI
